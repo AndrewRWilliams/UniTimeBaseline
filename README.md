@@ -1,3 +1,5 @@
+Copied from https://github.com/liuxu77/UniTime for baseline purposes.
+
 # UniTime
 
 This is the official repository of our WWW 2024 paper [UniTime: A Language-Empowered Unified Model for Cross-Domain Time Series Forecasting](https://arxiv.org/pdf/2310.09751.pdf). UniTime aims to explore the potential of utilizing a unified model for generalization across time series application domains. This code base offers an implementation to facilitate cross-domain time series learning research.
