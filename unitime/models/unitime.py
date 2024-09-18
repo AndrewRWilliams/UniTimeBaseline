@@ -4,7 +4,7 @@ import torch.nn as nn
 import torch.nn.functional as F
 import os
 
-from unitimegpt2 import UniTimeGPT2
+from .unitimegpt2 import UniTimeGPT2
 from transformers import GPT2Tokenizer
 
 
